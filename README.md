@@ -1,2 +1,2 @@
 # Netology-homework
-Homework stuffe
+Homework stuff
